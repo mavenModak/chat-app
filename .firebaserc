@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "basic-chat-app-28792": {
+      "hosting": {
+        "Basic-Chat": [
+          "basic-chat-app-28792"
+        ]
+      }
+    }
+  }
+}
